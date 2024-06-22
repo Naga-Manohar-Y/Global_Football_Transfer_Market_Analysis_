@@ -51,12 +51,12 @@ These columns collectively provide a comprehensive view of the transfer activiti
 └── transfers_data_visulizations.ipynb
 
 ```
-- README.md: Project overview and instructions.
-- bundesliga_data_cleaned.csv: Cleaned transfer data for Bundesliga.
-- laliga_cleaned.csv: Cleaned transfer data for La Liga.
-- ligue_cleaned.csv: Cleaned transfer data for Ligue 1.
-- merged_cleaned_data.csv: Merged and cleaned transfer data for all leagues.
-- merged_data_cleaned.ipynb: Jupyter notebook for data cleaning and merging.
-- premier-league-cleaned.csv: Cleaned transfer data for Premier League.
-- serie_a_cleaned.csv: Cleaned transfer data for Serie A.
-- transfers_data_visulizations.ipynb: Jupyter notebook for data visualization. 
+- **README.md**: Project overview and instructions.
+- **bundesliga_data_cleaned.csv**: Cleaned transfer data for Bundesliga.
+- **laliga_cleaned.csv**: Cleaned transfer data for La Liga.
+- **ligue_cleaned.csv**: Cleaned transfer data for Ligue 1.
+- **merged_cleaned_data.csv**: Merged and cleaned transfer data for all leagues.
+- **merged_data_cleaned.ipynb**: Jupyter notebook for data cleaning and merging.
+- **premier-league-cleaned.csv**: Cleaned transfer data for Premier League.
+- **serie_a_cleaned.csv**: Cleaned transfer data for Serie A.
+- **transfers_data_visulizations.ipynb**: Jupyter notebook for data visualization. 
