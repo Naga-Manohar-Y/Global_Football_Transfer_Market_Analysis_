@@ -41,8 +41,11 @@ These columns collectively provide a comprehensive view of the transfer activiti
 
 ```plaintext
 .
-├── Presentation_Video.mp4
 ├── README.md
+├── Report_and_Video
+│   ├── Data_Visualization_Maverick_Report.pdf
+│   ├── Presentation_Video.mp4
+│   └── Preview_of_Visualizations.gif
 ├── bundesliga_data_cleaned.csv
 ├── laliga_cleaned.csv
 ├── ligue_cleaned.csv
@@ -90,7 +93,12 @@ These columns collectively provide a comprehensive view of the transfer activiti
 ### Reporting:
 - Compile findings into comprehensive report: [Data_Visualization_Maverick_Report.pdf](https://github.com/Naga-Manohar-Y/Global_Football_Transfer_Market_Analysis_/blob/main/Report_and_Video/Data_Visualization_Maverick_Report.pdf)
 .
+[Video](https://github.com/Naga-Manohar-Y/Global_Football_Transfer_Market_Analysis_/blob/main/Report_and_Video/Presentation_Video.mp4) &[YouTube video](https://youtu.be/O60jRb_fwDI?si=ptlm6BBuk4gfTf6G).
 
 ## Conclusion
 
 This project provides a comprehensive analysis of the football transfer market, offering insights into the financial and strategic dimensions of player transfers over the last decade. By leveraging advanced data analysis techniques and visualization tools, we have uncovered key patterns and trends that shape the dynamics of the transfer market. The findings from this project can serve as a valuable resource for football analysts, enthusiasts, and decision-makers in the sports industry.
+
+### Additional Info
+
+You can download the files and play with the visualizations, get the data here [transfermarkt-transfers](https://github.com/emordonez/transfermarkt-transfers).
