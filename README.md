@@ -1,5 +1,6 @@
 # Global_Football_Transfer_Market_Analysis
 
+![Visualization GIF](https://github.com/Naga-Manohar-Y/Global_Football_Transfer_Market_Analysis_/blob/main/Report_and_Video/Preview_of_Visualizations.gif)
 
 
 ## Abstract
@@ -41,19 +42,21 @@ These columns collectively provide a comprehensive view of the transfer activiti
 
 ```plaintext
 .
+├── Data_Cleaning_Preprocessing
+│   ├── bundesliga_data_cleaned.csv
+│   ├── laliga_cleaned.csv
+│   ├── ligue_cleaned.csv
+│   ├── merged_cleaned_data.csv
+│   ├── merged_data_cleaned.ipynb
+│   ├── premier-league-cleaned.csv
+│   └── serie_a_cleaned.csv
+├── Data_Visualizations
+│   └── transfers_data_visulizations.ipynb
 ├── README.md
-├── Report_and_Video
-│   ├── Data_Visualization_Maverick_Report.pdf
-│   ├── Presentation_Video.mp4
-│   └── Preview_of_Visualizations.gif
-├── bundesliga_data_cleaned.csv
-├── laliga_cleaned.csv
-├── ligue_cleaned.csv
-├── merged_cleaned_data.csv
-├── merged_data_cleaned.ipynb
-├── premier-league-cleaned.csv
-├── serie_a_cleaned.csv
-└── transfers_data_visulizations.ipynb
+└── Report_and_Video
+    ├── Data_Visualization_Maverick_Report.pdf
+    ├── Presentation_Video.mp4
+    └── Preview_of_Visualizations.gif
 
 ```
 - **README.md**: Project overview and instructions.
