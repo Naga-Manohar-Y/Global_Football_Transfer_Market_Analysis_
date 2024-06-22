@@ -1,8 +1,7 @@
 # Global_Football_Transfer_Market_Analysis
-
+---
 ![Visualization GIF](https://github.com/Naga-Manohar-Y/Global_Football_Transfer_Market_Analysis_/blob/main/Report_and_Video/Preview_of_Visualizations.gif)
-
-
+---
 ## Abstract
 
 In this extensive project, our primary focus is on conducting a comprehensive analysis of the football transfer market, particularly within the context of the top 5 global leagues. Over the span of the last decade, we meticulously examine the financial intricacies, strategic decisions, and evolving trends that have shaped the transfer market. Our investigation encompasses an in-depth exploration of the spending behaviors exhibited by the most influential clubs, unraveling the strategic considerations and patterns that underpin their player acquisition strategies.
