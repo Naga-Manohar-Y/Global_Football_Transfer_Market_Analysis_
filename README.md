@@ -1,5 +1,7 @@
 # Global_Football_Transfer_Market_Analysis
 
+
+
 ## Abstract
 
 In this extensive project, our primary focus is on conducting a comprehensive analysis of the football transfer market, particularly within the context of the top 5 global leagues. Over the span of the last decade, we meticulously examine the financial intricacies, strategic decisions, and evolving trends that have shaped the transfer market. Our investigation encompasses an in-depth exploration of the spending behaviors exhibited by the most influential clubs, unraveling the strategic considerations and patterns that underpin their player acquisition strategies.
@@ -83,10 +85,11 @@ These columns collectively provide a comprehensive view of the transfer activiti
 
 ### Data Visualization:
 - Create visual representations of the data using `transfers_data_visulizations.ipynb`.
-- Save visualizations in the `reports` directory.
+- Saved the visualizations and added in the [Report.pdf](https://github.com/Naga-Manohar-Y/Global_Football_Transfer_Market_Analysis_/blob/main/Report_and_Video/Data_Visualization_Maverick_Report.pdf).
 
 ### Reporting:
-- Compile findings into comprehensive reports.
+- Compile findings into comprehensive report: [Data_Visualization_Maverick_Report.pdf](https://github.com/Naga-Manohar-Y/Global_Football_Transfer_Market_Analysis_/blob/main/Report_and_Video/Data_Visualization_Maverick_Report.pdf)
+.
 
 ## Conclusion
 
