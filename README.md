@@ -102,6 +102,9 @@ These columns collectively provide a comprehensive view of the transfer activiti
 
 This project provides a comprehensive analysis of the football transfer market, offering insights into the financial and strategic dimensions of player transfers over the last decade. By leveraging advanced data analysis techniques and visualization tools, we have uncovered key patterns and trends that shape the dynamics of the transfer market. The findings from this project can serve as a valuable resource for football analysts, enthusiasts, and decision-makers in the sports industry.
 
+
+---
+
 ### Additional Info
 
 You can download the files and play with the visualizations, get the data here [transfermarkt-transfers](https://github.com/emordonez/transfermarkt-transfers).
