@@ -60,3 +60,34 @@ These columns collectively provide a comprehensive view of the transfer activiti
 - **premier-league-cleaned.csv**: Cleaned transfer data for Premier League.
 - **serie_a_cleaned.csv**: Cleaned transfer data for Serie A.
 - **transfers_data_visulizations.ipynb**: Jupyter notebook for data visualization. 
+
+## Services Used
+
+- **Transfermarkt**: Data source for football transfers.
+- **Jupyter Notebooks**: For exploratory data analysis and visualization.
+- **Python Libraries**: 
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn
+  - scikit-learn
+
+## Workflow
+
+### Data Collection:
+- Source data from Transfermarkt.
+- Store raw data in the respective CSV files.
+
+### Data Cleaning and Merging:
+- Clean and merge the data using `merged_data_cleaned.ipynb`.
+
+### Data Visualization:
+- Create visual representations of the data using `transfers_data_visulizations.ipynb`.
+- Save visualizations in the `reports` directory.
+
+### Reporting:
+- Compile findings into comprehensive reports.
+
+## Conclusion
+
+This project provides a comprehensive analysis of the football transfer market, offering insights into the financial and strategic dimensions of player transfers over the last decade. By leveraging advanced data analysis techniques and visualization tools, we have uncovered key patterns and trends that shape the dynamics of the transfer market. The findings from this project can serve as a valuable resource for football analysts, enthusiasts, and decision-makers in the sports industry.
